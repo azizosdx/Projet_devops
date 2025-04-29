@@ -1,0 +1,7 @@
+flask
+flask-cors
+pyjwt
+gunicorn==20.1.0
+psycopg2-binary
+kafka-python  
+SQLAlchemy

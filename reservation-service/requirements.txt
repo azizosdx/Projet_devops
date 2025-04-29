@@ -1,0 +1,5 @@
+Flask
+flask-cors
+psycopg2-binary
+kafka-python  # Pour Kafka
+SQLAlchemy  # Si tu utilises SQLAlchemy pour gérer la DB
